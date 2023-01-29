@@ -1,3 +1,8 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "GoodBook Now",
+      "id": 1
+    }
+  ]
 }
